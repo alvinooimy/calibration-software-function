@@ -1,2 +1,2 @@
-# spectrochip-function
-spectrochip function in C++
+# calibration-software-function
+calibration software function in C++
